@@ -1,1 +1,3 @@
 This is first feature of our application.
+1. This is the bug fix in development branch.
+2. This is gadbad code
